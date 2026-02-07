@@ -8,7 +8,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Focused on 0 → 1 product building, combining design and engineering perspectives
+> Focused on 0 → 1 product building, combining design and engineering perspectives <br/>
 > Currently exploring AI agents, productivity tools, and structured learning systems
 
 ## What I'm Doing
@@ -39,11 +39,11 @@
 [![Twitter](https://img.shields.io/badge/-@westwong0622-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/westwong0622)
 [![Figma](https://img.shields.io/badge/-@westwong0622-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@westwong0622)
 [![GitHub](https://img.shields.io/badge/-@westwong0622-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/westwong0622)
-[![Rednote](https://img.shields.io/badge/-@westwong0622-181717?style=flat-square&logo=rednote&logoColor=white)](https://www.xiaohongshu.com/user/profile/5a9227f611be102033cb1c5b)
+[![Rednote](https://img.shields.io/badge/-rednote@westwong0622-EB3F4A?style=flat-square&logo=rednote&logoColor=white)](https://www.xiaohongshu.com/user/profile/5a9227f611be102033cb1c5b)
 
 ### Philosophy
 
-> Balance design and engineering, respecting platform interaction principles
-> The value of tools lies in efficiency and reliability
-> Use systematic and structured thinking to break down complexity
-> Stay self-driven and continuously explore better tools and practices
+> Balance design and engineering, respecting platform interaction principles <br/>
+> The value of tools lies in efficiency and reliability <br/>
+> Use systematic and structured thinking to break down complexity <br/>
+> Stay self-driven and continuously explore better tools and practices <br/>
