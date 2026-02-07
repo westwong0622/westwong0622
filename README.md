@@ -8,12 +8,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> loading
+> Focused on 0 → 1 product building, combining design and engineering perspectives
+> Currently exploring AI agents, productivity tools, and structured learning systems
 
 ## What I'm Doing
 
-- **Live on bilibili** - Live on bilibili everyday and update my blog
-- **YoxAI** - AI Agent for education
+- **[Live on Bilibili](https://space.bilibili.com/230454104)** - Live streaming on bilibili everyday and update my blog
+- **[YoxAI](https://yoxedu.cn)** - AI Agent for education
 
 ### Current Projects
 
@@ -42,4 +43,7 @@
 
 ### Philosophy
 
-> loading
+> Balance design and engineering, respecting platform interaction principles
+> The value of tools lies in efficiency and reliability
+> Use systematic and structured thinking to break down complexity
+> Stay self-driven and continuously explore better tools and practices
